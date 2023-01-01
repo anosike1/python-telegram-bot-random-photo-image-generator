@@ -4,7 +4,7 @@ from telegram import *
 from telegram.ext import *
 
 # set variables
-BOT_API = "1982666554:AAE_SP3hvjRTVPAloOfitpExyb0tTpSbIGA"
+BOT_API = YOUR BOT API
 updater = Updater (BOT_API, use_context=True)
 dp = updater.dispatcher
 randompeopleurl = "https://thispersondoesnotexist.com/image"
